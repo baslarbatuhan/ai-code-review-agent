@@ -169,7 +169,13 @@ Access the dashboard at: http://localhost:8501
 ├── tests/               # Test suite
 ├── config/              # Configuration
 │   └── settings.py
-├── docker/               # Docker files
+├── docker/              # Docker files
+├── docs/                # Documentation
+│   ├── USER_MANUAL.md
+│   ├── INSTALL.md
+│   ├── QUICKSTART.md
+│   ├── DASHBOARD_USAGE_GUIDE.md
+│   └── GITHUB_TOKEN_SETUP.md
 ├── requirements.txt
 ├── docker-compose.yml
 └── README.md
@@ -252,8 +258,12 @@ This project is developed for academic purposes as part of SEN0414 Advanced Prog
 
 ## 📚 Documentation
 
+- [User Manual](docs/USER_MANUAL.md) - Complete user guide
+- [Installation Guide](docs/INSTALL.md) - Detailed installation instructions
+- [Quick Start Guide](docs/QUICKSTART.md) - Get started in 3 steps
+- [Dashboard Usage Guide](docs/DASHBOARD_USAGE_GUIDE.md) - Dashboard instructions
+- [GitHub Token Setup](docs/GITHUB_TOKEN_SETUP.md) - GitHub integration setup
 - [API Documentation](http://localhost:8000/docs) - Swagger UI (when running)
-- [Project Proposal](Project1_AI_Code_Review_Agent_Proposal.md)
 
 ## ⚠️ Known Issues
 
