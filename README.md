@@ -236,12 +236,6 @@ The system integrates with:
 
 This project is developed for academic purposes as part of SEN0414 Advanced Programming course.
 
-## 👥 Authors
-
-- [Your Name] - [Student ID] - [Role]
-- [Team Member 2] - [Student ID] - [Role]
-- [Team Member 3] - [Student ID] - [Role]
-
 **Note:** Please update with actual team member information.
 
 ## 🙏 Acknowledgments
