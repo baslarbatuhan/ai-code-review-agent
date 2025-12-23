@@ -24,11 +24,9 @@ A sophisticated multi-agent system designed to autonomously review Python code f
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-code-review-agent.git
+git clone https://github.com/baslarbatuhan/ai-code-review-agent.git
 cd ai-code-review-agent
 ```
-
-**Note:** Replace `your-username` with your GitHub username after creating the repository.
 
 ### 2. Create virtual environment
 
