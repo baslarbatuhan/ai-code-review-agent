@@ -242,7 +242,16 @@ The system integrates with:
 
 This project is developed for academic purposes as part of SEN0414 Advanced Programming course.
 
-**Note:** Please update with actual team member information.
+## 👥 Authors
+
+- **Batuhan Başlar** - 2100003954 - Project Lead & Backend Developer
+- **Emine Esra Çiçek** - 2100004506 - Frontend Developer & Documentation
+- **Nazlı Nur Buldum** - 2100005548 - Testing & Quality Assurance
+
+**Course:** SEN0414 Advanced Programming  
+**Institution:** Istanbul Kültür University - Computer Engineering Department  
+**Instructor:** Yusuf Altunel  
+**Semester:** Fall 2025
 
 ## 🙏 Acknowledgments
 
@@ -253,11 +262,12 @@ This project is developed for academic purposes as part of SEN0414 Advanced Prog
 ## 📚 Documentation
 
 - [User Manual](docs/USER_MANUAL.md) - Complete user guide
+- [API Documentation](docs/API_DOCUMENTATION.md) - Complete API reference
 - [Installation Guide](docs/INSTALL.md) - Detailed installation instructions
 - [Quick Start Guide](docs/QUICKSTART.md) - Get started in 3 steps
 - [Dashboard Usage Guide](docs/DASHBOARD_USAGE_GUIDE.md) - Dashboard instructions
 - [GitHub Token Setup](docs/GITHUB_TOKEN_SETUP.md) - GitHub integration setup
-- [API Documentation](http://localhost:8000/docs) - Swagger UI (when running)
+- [Interactive API Docs](http://localhost:8000/docs) - Swagger UI (when running)
 
 ## ⚠️ Known Issues
 
